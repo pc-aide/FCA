@@ -11,5 +11,5 @@
 |4|Models|<ins>1. Entry level</ins><br/>FG-80F<br/>FWF-80F<br/><br/><ins>2. Mid-range</ins><br/>FG-100F<br/>FG-1000F<br/>FG-4200F<br/><br/><ins>3. High-end</ins><br/>FG-4800F<br/>FG-7081F<br/>FG-712F<br/>FG-5114C
 |5|FortiGuard Labs|
 |6|Static Routing||<img src="https://i.imgur.com/PGia3uk.png">|
-|7|Firewall Policy||Accept<br/><img src="https://i.imgur.com/boppLfi.png"><br/>Deny:<br/><img src="https://i.imgur.com/R6d0sR1.png">|
+|7|Firewall Policy||Accept<br/><img src="https://i.imgur.com/boppLfi.png"><br/>Deny:<br/><img src="https://i.imgur.com/R6d0sR1.png"><br/>FG can blocked a virus if its a virus:<br/><img src="https://i.imgur.com/BvmKp4P.png">|
 |8|Policy Table||<img src="https://i.imgur.com/GE9gjCA.png">|
