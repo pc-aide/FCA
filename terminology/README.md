@@ -18,3 +18,4 @@
 |11|Configuring FW auth||<img src="https://i.imgur.com/TJpX6EI.png">|
 |12|Guest Accounts||<img src="https://i.imgur.com/aYbNmWa.png">|
 |13|Cfg Remote auth||<img src="https://i.imgur.com/3TOySbb.png"><br/><img src="https://i.imgur.com/QrukF7E.png"><br/>Radius SRV:<br/><img src="https://i.imgur.com/q9sIZL6.png"><br/>Cfg LDAP SRV:<br/><img src="https://i.imgur.com/SKG5WVg.png">|
+|14|Types of SSL Inpections|1. Cert. Inspection<br/>2. Deep inspection|
