@@ -12,3 +12,4 @@
 |5|FortiGuard Labs|
 |6|Static Routing||<img src="https://i.imgur.com/PGia3uk.png">|
 |7|Firewall Policy||Accept<br/><img src="https://i.imgur.com/boppLfi.png"><br/>Deny:<br/><img src="https://i.imgur.com/R6d0sR1.png">|
+|8|Policy Table||<img src="https://i.imgur.com/GE9gjCA.png">|
