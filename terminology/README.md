@@ -17,4 +17,4 @@
 |10|Proxy-Based Inpsection||<img src="https://i.imgur.com/jJVwwBq.png">|
 |11|Configuring FW auth||<img src="https://i.imgur.com/TJpX6EI.png">|
 |12|Guest Accounts||<img src="https://i.imgur.com/aYbNmWa.png">|
-|13|Cfg Remote auth||<img src="https://i.imgur.com/3TOySbb.png"><br/><img src="https://i.imgur.com/QrukF7E.png">|
+|13|Cfg Remote auth||<img src="https://i.imgur.com/3TOySbb.png"><br/><img src="https://i.imgur.com/QrukF7E.png"><br/>Radius SRV:<br/><img src="https://i.imgur.com/q9sIZL6.png">|
