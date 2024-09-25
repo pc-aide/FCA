@@ -7,3 +7,4 @@
 |-|----|-----|---|
 |1|FortiOS|
 |2|FortiWeb|
+|3|FortiMail|
