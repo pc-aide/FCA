@@ -13,3 +13,5 @@
 |6|Static Routing||<img src="https://i.imgur.com/PGia3uk.png">|
 |7|Firewall Policy||Accept<br/><img src="https://i.imgur.com/boppLfi.png"><br/>Deny:<br/><img src="https://i.imgur.com/R6d0sR1.png"><br/>FG can blocked a virus if its a virus:<br/><img src="https://i.imgur.com/BvmKp4P.png">|
 |8|Policy Table||<img src="https://i.imgur.com/GE9gjCA.png">|
+|9|Flow-Based Inspection|||
+|10|Proxy-Based Inpsection||<img src="https://i.imgur.com/jJVwwBq.png">|
