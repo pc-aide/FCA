@@ -19,3 +19,4 @@
 |12|Guest Accounts||<img src="https://i.imgur.com/aYbNmWa.png">|
 |13|Cfg Remote auth||<img src="https://i.imgur.com/3TOySbb.png"><br/><img src="https://i.imgur.com/QrukF7E.png"><br/>Radius SRV:<br/><img src="https://i.imgur.com/q9sIZL6.png"><br/>Cfg LDAP SRV:<br/><img src="https://i.imgur.com/SKG5WVg.png">|
 |14|Types of SSL Inpections|<ins>1. Cert. Inspection</ins><br/>* Inspects the SSL/TLS hadshake<br/>* Verifies the identity of the web server<br/>* Used only with web filtering<br/><br/><ins>2. Deep inspection</ins><br/>* Decrypts incoming traffic to inspect it<br/>* If safe, re-encrypts the traffic & sends it to the recipient<br/>* Used with all types of security scanning|
+|15|Preloaded SSL Inspection Profiles||<img src="https://i.imgur.com/FpyhPeM.png">|
