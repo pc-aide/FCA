@@ -16,3 +16,4 @@
 |9|Flow-Based Inspection|||
 |10|Proxy-Based Inpsection||<img src="https://i.imgur.com/jJVwwBq.png">|
 |11|Configuring FW auth||<img src="https://i.imgur.com/TJpX6EI.png">|
+|12|Guest Accounts||<img src="https://i.imgur.com/aYbNmWa.png">|
