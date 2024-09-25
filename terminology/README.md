@@ -15,3 +15,4 @@
 |8|Policy Table||<img src="https://i.imgur.com/GE9gjCA.png">|
 |9|Flow-Based Inspection|||
 |10|Proxy-Based Inpsection||<img src="https://i.imgur.com/jJVwwBq.png">|
+|11|Configuring FW auth||<img src="https://i.imgur.com/TJpX6EI.png">|
