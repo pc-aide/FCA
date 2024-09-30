@@ -10,3 +10,4 @@
 |3|SPUs|Security Processing Units|
 |4|IPS|Intrusion Prevention System|
 |5|IKE|Internet Key Exchange Protocol|
+|6|EAP|Extensible Authentication Protocol|
