@@ -22,3 +22,4 @@
 |15|Preloaded SSL Inspection Profiles||<img src="https://i.imgur.com/FpyhPeM.png">|
 |16|cert warnings|<ins>Avoding cert. warning</ins><br/>1. download the fortinet cert<br/>2. use a CA-Issued SSL cert|<img src="https://i.imgur.com/OAmfBkB.png"><br/>Avoiding cert warning<br/><img src="https://i.imgur.com/cY7Huwg.png">|
 |17|Virus outbreak prevention||<img src="https://i.imgur.com/mbcDooz.png">|
+|18|IPS||<img src="https://i.imgur.com/f4MBiSC.png">|
