@@ -21,3 +21,4 @@
 |14|Types of SSL Inpections|<ins>1. Cert. Inspection</ins><br/>* Inspects the SSL/TLS hadshake<br/>* Verifies the identity of the web server<br/>* Used only with web filtering<br/><br/><ins>2. Deep inspection</ins><br/>* Decrypts incoming traffic to inspect it<br/>* If safe, re-encrypts the traffic & sends it to the recipient<br/>* Used with all types of security scanning|
 |15|Preloaded SSL Inspection Profiles||<img src="https://i.imgur.com/FpyhPeM.png">|
 |16|cert warnings|<ins>Avoding cert. warning</ins><br/>1. download the fortinet cert<br/>2. use a CA-Issued SSL cert|<img src="https://i.imgur.com/OAmfBkB.png"><br/>Avoiding cert warning<br/><img src="https://i.imgur.com/cY7Huwg.png">|
+|17|
