@@ -11,3 +11,4 @@
 |4|IPS|Intrusion Prevention System|
 |5|IKE|Internet Key Exchange Protocol|
 |6|EAP|Extensible Authentication Protocol|
+|7|ESP|Encapsulating Security Payload|
