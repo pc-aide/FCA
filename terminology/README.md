@@ -28,3 +28,4 @@
 |21|ESP||<img src="https://i.imgur.com/yDcfeTw.png">|
 |22|SSL VPN||<img src="https://i.imgur.com/2SY4MZH.png"><br/>SSL VPN func<br/><ins>Web mode</ins><br/><img src="https://i.imgur.com/qnbtI4S.png"><br/>Tunnel mode<br/><img src="https://i.imgur.com/0BOWMzz.png"><br/>Best Practices<br/><img src="https://i.imgur.com/9Eqk1Qa.png">|
 |22|Functions of FG System Maintenance||<img src="https://i.imgur.com/q3dAmEb.png"><br/>bk FG cfg - different build<br/><img src="https://i.imgur.com/fwOres4.png"><br/>Performing fw upgrade - Feature & mature<br/><img src="https://i.imgur.com/AK9uGcS.png"><br/>Recommended upgrade path<br/><img src="https://i.imgur.com/01EkEWa.png"><br/><img src="https://i.imgur.com/TIGnUPZ.png"><br/>Recommended upgrade path - example<br/><img src="https://i.imgur.com/UbXnNWL.png">Fortinet upgrade path tool<br/><img src="https://i.imgur.com/GhDGl9A.png">|
+|23|FG licenses||<img src="https://i.imgur.com/sLQ4lSf.png">|
