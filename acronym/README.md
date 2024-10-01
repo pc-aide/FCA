@@ -13,3 +13,4 @@
 |6|EAP|Extensible Authentication Protocol|
 |7|ESP|Encapsulating Security Payload|
 |8|GA|General Availability|version stable for the firmware|
+|9|ISDB|Internet Service Database|
