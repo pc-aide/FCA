@@ -7,7 +7,7 @@
 # cfg WAN
 config system interface
 edit port1
-set alias wan
+set alias WAN
 set role wan
 next
 end
