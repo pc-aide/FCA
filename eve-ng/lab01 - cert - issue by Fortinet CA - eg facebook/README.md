@@ -1,4 +1,4 @@
-# lab01 -FG & win10
+# lab01 - cert - issue by Fortinet CA - eg facebook
 
 ---
 
