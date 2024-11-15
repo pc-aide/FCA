@@ -3,7 +3,7 @@
 ---
 
 ## cfg FG-Remote
-````fortiOS
+````sh
 # static ip - FG-Remote
 config system interface
 edit port2
