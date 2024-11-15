@@ -60,3 +60,9 @@ set hostname FG-Remote
 set admintimeout 60
 end
 ````
+
+---
+
+## cfg FG-Client
+````sh
+````
