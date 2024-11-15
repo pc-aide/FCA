@@ -126,3 +126,9 @@ set hostname Local-FG
 set admintimeout 60
 end
 ````
+
+---
+
+## cfg Client-FG
+````sh
+````
