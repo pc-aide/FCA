@@ -2,6 +2,11 @@
 
 ---
 
+## Topology
+
+
+---
+
 ## cfg FG-Remote
 ````sh
 # static ip - FG-Remote
