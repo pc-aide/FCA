@@ -64,6 +64,12 @@ config system global
 set hostname FG-Remote
 set admintimeout 60
 end
+
+# remove popUP what 's new in fortios 7.0
+config system admin
+set gui-ignore-release-overview-version "7.0.0"
+next
+end
 ````
 
 ---
@@ -124,5 +130,11 @@ end
 config system global
 set hostname FG-Client
 set admintimeout 60
+end
+
+# remove popUP what 's new in fortios 7.0
+config system admin
+set gui-ignore-release-overview-version "7.0.0"
+next
 end
 ````
