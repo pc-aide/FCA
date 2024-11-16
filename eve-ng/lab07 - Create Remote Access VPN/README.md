@@ -67,7 +67,7 @@ end
 
 # remove popUP what 's new in fortios 7.0
 config system admin
+edit admin
 set gui-ignore-release-overview-version "7.0.0"
-next
 end
 ````
