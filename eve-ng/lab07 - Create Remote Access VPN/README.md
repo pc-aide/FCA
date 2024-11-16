@@ -3,7 +3,7 @@
 ---
 
 ## Topology
-<img src="https://github.com/pc-aide/FCA/blob/main/eve-ng/lab07%20-%20Create%20Remote%20Access%20VPN/Lab07%20-%20Create%20Remote%20Access%20VPN.png?raw=true">
+
 
 ---
 
