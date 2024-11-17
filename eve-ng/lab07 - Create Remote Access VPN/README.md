@@ -43,7 +43,7 @@ set role wan
 next
 end
 
-# cfg fw policy - Allow LAN - WAN - internet & ping
+# cfg fw policy - Allow LAN - WAN - internet
 config firewall policy
 edit 1
 set name "Allow LAN-To-WAN - Internet"
@@ -53,7 +53,7 @@ set action accept
 set srcaddr "all"
 set dstaddr "all"
 set schedule "always"
-set service "Web Access" "PING"
+set service "Web Access"
 set logtraffic all
 set nat enable
 next
