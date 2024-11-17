@@ -77,7 +77,9 @@ end
 ## Requirements
 ### IKEv1
 1. same config between the client device & router device
-   b. eg : Mode Agressive - both on FG & Windows
+   1. Mode Agressive or Main - both on FG & Windows
+<img src="https://github.com/pc-aide/FCP-SO/blob/main/CLI/mode%20aggressive.png">
+
 
 #### Phase 1
 1. IKE Proposal - Encryption & auth
