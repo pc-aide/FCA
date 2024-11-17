@@ -81,4 +81,5 @@ end
 
 #### Phase 1
 1. IKE Proposal - Encryption & auth
-2. DH Group
+<img src="https://github.com/pc-aide/FCP-SO/blob/main/CLI/diag%20vpn%20ipsec%20status.png?raw=true">
+3. DH Group
