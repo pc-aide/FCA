@@ -71,3 +71,14 @@ edit admin
 set gui-ignore-release-overview-version "7.0.0"
 end
 ````
+
+---
+
+## Requirements
+### IKEv1
+1. same config between the client device & router device
+   b. eg : Mode Agressive - both on FG & Windows
+
+#### Phase 1
+1. IKE Proposal - Encryption & auth
+2. DH Group
